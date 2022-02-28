@@ -4,12 +4,11 @@
   justify-content: center;
   flex-direction: column;
   height: 500px;
-  
 }
-.wrap > h1{
-    margin-top: 150px;
-    margin-bottom: 100px;
-    font-size: 80px;
+.wrap > h1 {
+  margin-top: 150px;
+  margin-bottom: 100px;
+  font-size: 80px;
 }
 
 .time {
@@ -36,7 +35,6 @@
   border-radius: 10px;
   box-shadow: 100px;
   color: white;
-  
 }
 
 .buttons > button {
@@ -49,6 +47,7 @@
   font-size: 30px;
   cursor: pointer;
   opacity: 70%;
+  border: none;
 }
 .buttons > button:hover {
   background-color: rgb(103, 128, 207);
